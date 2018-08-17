@@ -1,0 +1,12 @@
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\Tests.IdKata.dll
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\Tests.IdKata.pdb
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\Katas.dll
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\nunit.framework.dll
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\Katas.pdb
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\nunit.framework.pdb
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\bin\Debug\nunit.framework.xml
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\obj\Debug\Tests.IdKata.csprojAssemblyReference.cache
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\obj\Debug\Tests.IdKata.csproj.CoreCompileInputs.cache
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\obj\Debug\Tests.IdKata.csproj.CopyComplete
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\obj\Debug\Tests.IdKata.dll
+c:\Users\abraham\source\repos\Katas\Tests.IdKata\obj\Debug\Tests.IdKata.pdb
