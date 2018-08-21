@@ -3,3 +3,4 @@ c:\users\abraham\source\repos\Katas\Katas\bin\Debug\Katas.pdb
 c:\users\abraham\source\repos\Katas\Katas\obj\Debug\IPKata.csproj.CoreCompileInputs.cache
 c:\users\abraham\source\repos\Katas\Katas\obj\Debug\Katas.dll
 c:\users\abraham\source\repos\Katas\Katas\obj\Debug\Katas.pdb
+C:\Users\abraham\source\repos\Katas\Katas\obj\Debug\IPKata.csprojAssemblyReference.cache

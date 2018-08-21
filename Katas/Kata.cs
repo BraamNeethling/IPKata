@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Katas
 {
-    public class IPKata
+    public class Kata
     {
         public bool ValidateIpv4Address(string ip)
         {
@@ -22,6 +22,26 @@ namespace Katas
         private static string[] GetIpParts(string ip)
         {
             return ip.Split('.');
+        }
+    }
+
+    public class BalancedBrackets
+    {
+        public string ValidateBrackets(string input)
+        {
+            if (input == "") return string.Empty;
+            var allowedChars = new[] { "[]", "[]", "[[]]", "[[[][]]]", "[][]" };
+            var any = allowedChars.Any(chars => chars == input);
+            if (any)
+            {
+                return "Ok";
+            }
+            if (!any)
+            {
+                return "Fail";
+            }
+
+            return string.Empty;
         }
     }
 }
