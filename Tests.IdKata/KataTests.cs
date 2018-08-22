@@ -202,4 +202,24 @@ namespace Tests.IdKata
             return new BalancedBrackets();
         }
     }
+
+    [TestFixture]
+    public class LastSundayOfEachMonthTests
+    {
+        [Test]
+        public void GivenYear_ShouldReturnFirstSunday()
+        {
+            //arrange
+            var creator = LastSundayCreator();
+            //act
+            var sundays = creator.LastSundayOfEachMonth(2013);
+            //assert
+            Assert.AreEqual(sundays.First(),new DateTime(2013 - 01 - 27));
+        }
+
+        private static LastSunday LastSundayCreator()
+        {
+            return new LastSunday();
+        }
+    }
 }

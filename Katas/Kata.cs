@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DateTime = System.DateTime;
 
 namespace Katas
 {
@@ -42,6 +44,20 @@ namespace Katas
             }
 
             return string.Empty;
+        }
+    }
+
+    public class LastSunday
+    {
+        public List<DateTime> LastSundayOfEachMonth(int year)
+        {
+            
+            //for (var i = 0; i < 12; i++)
+            //{
+            //    var yearMonths = new DateTime(year, i, 1);
+            //    yearMonths.
+            //}
+            return new List<DateTime>(new DateTime[2013-01-27]);
         }
     }
 }
